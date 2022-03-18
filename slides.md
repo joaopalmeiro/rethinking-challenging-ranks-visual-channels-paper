@@ -104,7 +104,7 @@ Cleveland & McGill's Ranking vs. Probabilistic Rankings
 
 ---
 layout: image-right
-image: /public/2107.11367_page1.png
+image: /2107.11367_page1.png
 ---
 
 # Rethinking the Ranks of Visual Channels
