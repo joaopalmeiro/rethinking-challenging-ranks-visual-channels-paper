@@ -1,0 +1,13 @@
+{
+  "name": "rethinking-challenging-ranks-visual-channels",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.28.10",
+    "@slidev/theme-default": "^0.21.2"
+  }
+}
