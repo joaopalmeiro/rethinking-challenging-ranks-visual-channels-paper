@@ -8,6 +8,7 @@ Materials for the presentation of the paper: "[Rethinking the Ranks of Visual Ch
 - [Composable Vue](https://github.com/antfu/talks/tree/master/2021-04-29) talk by Anthony Fu.
 - [An Examination of Cleveland and McGill's Hierarchy of Graphical Elements](https://www.researchgate.net/publication/221249388_An_Examination_of_Cleveland_and_McGill%27s_Hierarchy_of_Graphical_Elements) thesis by Brandie Michelle Stewart.
 - [Graphical perception — learn the fundamentals first](https://flowingdata.com/2010/03/20/graphical-perception-learn-the-fundamentals-first/) blog post by FlowingData.
+- [Tweet](https://twitter.com/fumeng_yang/status/1451635789016805377) by Fumeng Yang.
 
 ## Development
 
