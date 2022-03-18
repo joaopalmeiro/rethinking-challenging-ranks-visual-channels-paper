@@ -26,3 +26,6 @@ Materials for the presentation of the paper: "[Rethinking the Ranks of Visual Ch
   - [prettier-plugin-pkg](https://github.com/rx-ts/prettier/tree/master/packages/pkg) (`package.json`).
   - [prettier-plugin-sh](https://github.com/rx-ts/prettier/tree/master/packages/sh).
 - [Minimal Slide Deck Template](https://www.figma.com/community/file/969103389041074315).
+- Deployment:
+  - [GitHub Pages](https://sli.dev/guide/hosting.html#github-pages).
+  - [crazy-max/ghaction-github-pages@v2](https://github.com/crazy-max/ghaction-github-pages). Default `target_branch`: `gh-pages`.
