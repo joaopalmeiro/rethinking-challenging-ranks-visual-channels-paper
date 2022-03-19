@@ -7,6 +7,7 @@ fonts:
 drawings: 
   persist: false
   syncAll: false
+download: true
 ---
 
 # Rethinking (and challenging) the Ranks of Visual Channels

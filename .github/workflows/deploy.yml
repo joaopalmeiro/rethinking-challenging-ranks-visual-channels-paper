@@ -2,6 +2,7 @@
 # - https://sli.dev/guide/hosting.html#github-pages
 # - https://github.com/pnpm/action-setup#use-cache-to-reduce-installation-time
 # - https://github.com/crazy-max/ghaction-github-pages#inputs
+# - https://sli.dev/guide/hosting.html#base-path
 name: Deploy pages
 
 on: push

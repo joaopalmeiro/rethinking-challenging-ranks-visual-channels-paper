@@ -1,5 +1,7 @@
 # rethinking-challenging-ranks-visual-channels-paper
 
+> [Slides](https://joaopalmeiro.github.io/rethinking-challenging-ranks-visual-channels-paper/)
+
 Materials for the presentation of the paper: "[Rethinking the Ranks of Visual Channels](https://arxiv.org/abs/2107.11367)" (Caitlyn M. McColeman, Fumeng Yang, Steven Franconeri, Timothy F. Brady — IEEE VIS 2021).
 
 ## References
