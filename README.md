@@ -29,3 +29,4 @@ Materials for the presentation of the paper: "[Rethinking the Ranks of Visual Ch
 - Deployment:
   - [GitHub Pages](https://sli.dev/guide/hosting.html#github-pages).
   - [crazy-max/ghaction-github-pages@v2](https://github.com/crazy-max/ghaction-github-pages). Default `target_branch`: `gh-pages`.
+- [Building does not produce a GitPage-ready build](https://github.com/slidevjs/slidev/issues/268) issue.
