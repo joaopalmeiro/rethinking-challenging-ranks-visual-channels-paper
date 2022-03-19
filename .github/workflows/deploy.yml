@@ -1,6 +1,7 @@
 # Source:
 # - https://sli.dev/guide/hosting.html#github-pages
 # - https://github.com/pnpm/action-setup#use-cache-to-reduce-installation-time
+# - https://github.com/crazy-max/ghaction-github-pages#inputs
 name: Deploy pages
 
 on: push
@@ -36,5 +37,7 @@ jobs:
         uses: crazy-max/ghaction-github-pages@v2
         with:
           build_dir: dist
+          jekyll: false
+          verbose: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
