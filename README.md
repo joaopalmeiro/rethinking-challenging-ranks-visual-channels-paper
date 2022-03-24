@@ -16,6 +16,7 @@ Materials for the presentation of the paper: "[Rethinking the Ranks of Visual Ch
 
 - `pnpm install`.
 - `pnpm dev`.
+- `pnpm export`.
 
 ## Notes
 
@@ -32,3 +33,4 @@ Materials for the presentation of the paper: "[Rethinking the Ranks of Visual Ch
   - [GitHub Pages](https://sli.dev/guide/hosting.html#github-pages).
   - [crazy-max/ghaction-github-pages@v2](https://github.com/crazy-max/ghaction-github-pages). Default `target_branch`: `gh-pages`.
 - [Building does not produce a GitPage-ready build](https://github.com/slidevjs/slidev/issues/268) issue.
+- `pnpm install --save-dev playwright-chromium` ([Exporting](https://sli.dev/guide/exporting.html)).
